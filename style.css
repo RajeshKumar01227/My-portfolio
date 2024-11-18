@@ -1,0 +1,72 @@
+body{
+    padding-left: 2cm;
+    padding-right: 2cm;
+    background-color: rgb(74, 162, 137);
+}
+.portfolio{
+    align-items: center;
+    justify-content: center;
+    background-color: aquamarine;
+    text-align: center;
+    padding-left: 2cm;
+    padding-right: 2cm;
+    border-radius: 2rem;
+    border: 2px solid saddlebrown;
+}
+
+.int{
+    display: flex;
+    background-color: aquamarine;
+    margin: 20px;
+    border: 2px solid saddlebrown;
+}
+
+.me{
+    margin: 10px;
+    padding: 10px;
+    background-color: blueviolet;
+    border: 2px solid salmon;
+}
+.intro{
+    text-align: center;
+    color: brown;
+}
+
+.intra{
+    text-align: center;
+    color: chocolate;
+    
+}
+
+.skill{
+    justify-content: center;
+    background-color: aquamarine;
+    padding-left: 2cm;
+    padding-right: 2cm;
+    border-radius: 2rem;
+    border: 2px solid saddlebrown;
+}
+
+.project{
+    justify-content: space-evenly;
+    display: flex;
+    padding: 10px;
+    margin: 5px;
+    justify-content: space-between;
+    background-color: aquamarine;
+    text-align: center;
+    padding-left: 2cm;
+    padding-right: 2cm;
+    border-radius: 2rem;
+    border: 2px solid saddlebrown;
+}
+
+
+footer{
+    
+    background-color:aquamarine;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    position: relative;
+}
